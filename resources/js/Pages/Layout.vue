@@ -60,6 +60,7 @@ export default {
 html, body {
     padding: 0;
     margin: 0;
+    background-color: #32DE84;
 }
 header {
     width: 100%;
